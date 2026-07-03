@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://feira-de-santana.desenvolvimentodeapps.com/sitemap.xml
